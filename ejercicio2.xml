@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Nombre: [Henry Leonardo Talavera Velasquez]
+Curso: [DAW1]
+Fecha: [24/03/2025]
+Ejercicio: [Ejercicio 2]
+-->
+<!--Equipos de fútbol con jugadores-->
+<equipos>
+    <equipo>
+        <nombre>RC Celta</nombre>
+        <ciudad>Vigo</ciudad>
+        <entrenador>Claudio Giráldez</entrenador>
+        <jugadores>
+            <jugador posicion="portero">
+                <nombre>Iván Villar</nombre>
+                <nacionalidad>Español</nacionalidad>
+            </jugador>
+            <jugador posicion="lateral">
+                <nombre>Marcos Alonso</nombre>
+                <nacionalidad>Español</nacionalidad>
+            </jugador>
+        </jugadores>
+    </equipo>
+    <equipo>
+        <nombre>Atlético de Madrid</nombre>
+        <ciudad>Madrid</ciudad>
+        <entrenador></entrenador>
+        <jugadores>
+            <jugador posicion="portero">
+                <nombre>Jan Oblak</nombre>
+                <nacionalidad>Esloveno</nacionalidad>
+            </jugador>
+            <jugador posicion="defensa">
+                <nombre>José María Giménez</nombre>
+                <nacionalidad>Uruguayo</nacionalidad>
+            </jugador>
+        </jugadores>
+    </equipo>
+</equipos>
